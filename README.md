@@ -72,7 +72,7 @@ AI-Blind-Assistant/
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/AI-Blind-Assistant.git
+git clone https://github.com/Ahmed-za55/AI-Blind-Assistant.git
 cd AI-Blind-Assistant
 ```
 
