@@ -167,6 +167,7 @@ Assistant: a person sitting at a desk with a laptop
 - [ ] Depth estimation for better distance detection
 
 ---## 👨‍💻 Author
+
 Ahmed Sameh Sharaf  
 Faculty of Artificial Intelligence — Kafrelsheikh University  
 
