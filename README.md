@@ -166,16 +166,18 @@ Assistant: a person sitting at a desk with a laptop
 - [ ] Mobile app version (Android)
 - [ ] Depth estimation for better distance detection
 
----
-
-## 👨‍💻 Author
-
-**Ahmed Sameh Sharaf**  
+---## 👨‍💻 Author
+Ahmed Sameh Sharaf  
 Faculty of Artificial Intelligence — Kafrelsheikh University  
-📧 Connect on [LinkedIn](https://) | [GitHub](https://github.com/Ahmed-za55/Ahmed-za55)
+
+## 🤝 Team Members
+- Abdelrahman Mahmoud Salah  
+- Mahmoud Barakat Mahmoud  
+- Nada Mostafa El-Sayed  
+- Salsabeel Yehia Mohamed  
+- Youssef Mohamed Gomaa  
+
+## 📜 License
+This project is licensed under the MIT License — feel free to use and build upon it.
 
 ---
-
-## 📄 License
-
-This project is licensed under the MIT License — feel free to use and build upon it.
