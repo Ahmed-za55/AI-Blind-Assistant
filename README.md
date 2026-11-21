@@ -171,12 +171,7 @@ Assistant: a person sitting at a desk with a laptop
 Ahmed Sameh Sharaf  
 Faculty of Artificial Intelligence — Kafrelsheikh University  
 
-## 🤝 Team Members
-- Abdelrahman Mahmoud Salah  
-- Mahmoud Barakat Mahmoud  
-- Nada Mostafa El-Sayed  
-- Salsabeel Yehia Mohamed  
-- Youssef Mohamed Gomaa  
+
 
 ## 📜 License
 This project is licensed under the MIT License — feel free to use and build upon it.
